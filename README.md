@@ -21,4 +21,4 @@ When training your dog, make sure you are doing it in a safe place and in a quie
 
 One should keep into considerations all the above points to ensure a smooth flow between you and your animal. Remember your dog is not human and so it has the thinking of an animal and not a human being.
 
-more on (doggroomingchicago.net)[http://doggroomingchicago.net/]
+more on [doggroomingchicago.net](http://doggroomingchicago.net/)
